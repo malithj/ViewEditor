@@ -1,4 +1,7 @@
 # ViewEditor
+
+[![Build Status](https://travis-ci.org/malithj/ViewEditor.svg)](https://travis-ci.org/malithj/ViewEditor.svg)
+
 * An image processing application demonstrating widely used filters along with a user friendly GUI. The main UI has been designed with care to allow natural user actions.
 
 ![main_view](https://cloud.githubusercontent.com/assets/16982827/18286383/3297cb5a-7490-11e6-82d5-fffbdcb66c24.JPG)
