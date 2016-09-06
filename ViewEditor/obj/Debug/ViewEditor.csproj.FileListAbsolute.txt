@@ -1,0 +1,15 @@
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\bin\Debug\ViewEditor.exe.config
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\bin\Debug\ViewEditor.exe
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\bin\Debug\ViewEditor.pdb
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\obj\Debug\ViewEditor.Properties.Resources.resources
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\obj\Debug\ViewEditor.csproj.GenerateResource.Cache
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\obj\Debug\ViewEditor.exe
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\obj\Debug\ViewEditor.pdb
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\obj\Debug\ViewEditor.ViewEditor.resources
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\obj\Debug\ViewEditor.csprojResolveAssemblyReference.cache
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\obj\Debug\ViewEditor.ScaleBox.resources
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\obj\Debug\ViewEditor.UserMask.resources
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\obj\Debug\ViewEditor.About.resources
+D:\Programmer\ViewEditor\ViewEditor\bin\Debug\ViewEditor.exe.config
+D:\Programmer\ViewEditor\ViewEditor\obj\Debug\ViewEditor.exe
+D:\Programmer\ViewEditor\ViewEditor\obj\Debug\ViewEditor.pdb

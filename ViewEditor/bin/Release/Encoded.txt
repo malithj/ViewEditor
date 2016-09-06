@@ -1,0 +1,3 @@
+----- Huffman Encoded Values ----
+0 Code is: 0
+48 Code is: 1

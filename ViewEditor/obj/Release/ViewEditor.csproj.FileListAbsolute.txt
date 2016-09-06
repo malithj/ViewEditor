@@ -1,0 +1,12 @@
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\obj\Release\ViewEditor.Properties.Resources.resources
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\obj\Release\ViewEditor.ScaleBox.resources
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\obj\Release\ViewEditor.UserMask.resources
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\obj\Release\ViewEditor.ViewEditor.resources
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\obj\Release\ViewEditor.csproj.GenerateResource.Cache
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\obj\Release\ViewEditor.csprojResolveAssemblyReference.cache
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\obj\Release\ViewEditor.About.resources
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\bin\Release\ViewEditor.exe.config
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\bin\Release\ViewEditor.exe
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\bin\Release\ViewEditor.pdb
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\obj\Release\ViewEditor.exe
+D:\Programmer\Visual Studio 2013\Programs\ViewEditor\ViewEditor\obj\Release\ViewEditor.pdb
